@@ -5,11 +5,11 @@ import MockByCalls from '@chubbyjs/chubbyjs-mock/dist/MockByCalls';
 import ServerRequestInterface from '@chubbyjs/psr-http-message/dist/ServerRequestInterface';
 import UriInterface from '@chubbyjs/psr-http-message/dist/UriInterface';
 import { describe, expect, test } from '@jest/globals';
-import PathToRegexpUrlGenerator from '../../src/Router/PathToRegexpUrlGenerator';
-import ServerRequestDouble from '../Double/Psr/HttpMessage/ServerRequestDouble';
-import UriDouble from '../Double/Psr/HttpMessage/UriDouble';
-import RouteDouble from '../Double/Router/RouteDouble';
-import RoutesDouble from '../Double/Router/RoutesDouble';
+import PathToRegexpUrlGenerator from '../src/PathToRegexpUrlGenerator';
+import ServerRequestDouble from './Double/Psr/HttpMessage/ServerRequestDouble';
+import UriDouble from './Double/Psr/HttpMessage/UriDouble';
+import RouteDouble from './Double/Router/RouteDouble';
+import RoutesDouble from './Double/Router/RoutesDouble';
 
 const mockByCalls = new MockByCalls();
 
