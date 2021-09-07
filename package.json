@@ -1,5 +1,5 @@
 {
-  "name": "@chubbyjs/chubbyjs-framework-router-path-to-regex",
+  "name": "@chubbyjs/chubbyjs-framework-router-path-to-regexp",
   "version": "1.0.0",
   "description": "Path-to-regex routing implementation for chubbjs-framework.",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "author": "Dominik Zogg",
   "license": "MIT",
-  "repository": "chubbyjs/chubbyjs-framework-router-path-to-regex",
+  "repository": "chubbyjs/chubbyjs-framework-router-path-to-regexp",
   "scripts": {
     "cs-fix": "prettier --write src tests",
     "cs": "prettier --check src tests",
