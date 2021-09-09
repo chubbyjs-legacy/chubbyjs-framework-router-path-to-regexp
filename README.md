@@ -24,14 +24,14 @@ Path-to-regex routing implementation for chubbjs-framework.
 ## Requirements
 
  * node: 12
-* [@chubbyjs/chubbyjs-framework][2]: ^1.0.0
+* [@chubbyjs/chubbyjs-framework][2]: ^1.1.0
 
 ## Installation
 
 Through [NPM](https://www.npmjs.com) as [@chubbyjs/chubbyjs-framework-router-path-to-regexp][1].
 
 ```sh
-npm i @chubbyjs/chubbyjs-framework-router-path-to-regexp@1.0.0
+npm i @chubbyjs/chubbyjs-framework-router-path-to-regexp@1.0.1
 ```
 
 ## Copyright
